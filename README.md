@@ -6,7 +6,7 @@ Adjusts the video time on Sponsorblock-enabled YouTube pages depending on the pl
 1. Install [Tampermonkey](https://www.tampermonkey.net/) to run this script
 2. Install [SponsorblockYouTube-speed-video-time](https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/raw/main/SponsorblockYouTube-speed-video-time.user.js) (the link should open in Tampermonkey if it's installed)
 
-## Examples
+## Examples (different playback speeds selected)
 ![kép](https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/assets/117819350/694daa6a-c73a-4f4b-9e4b-14feedd6fe7e)
 ![kép](https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/assets/117819350/39a13c71-a267-45ff-895c-83a4fcc8e2a0)
 
