@@ -4,7 +4,7 @@
 // @version      1.0
 // @downloadURL  https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/raw/main/SponsorblockYouTube-speed-video-time.user.js
 // @updateURL    https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/raw/main/SponsorblockYouTube-speed-video-time.user.js
-// @description  Adjusts the video time on Sponsorblock-enabled YouTube pages depending on the playback speed, as well as displaying the when the video will end
+// @description  Adjusts the video time on Sponsorblock-enabled YouTube pages depending on the playback speed, as well as displaying when the video will end
 // @author       LostViking09
 // @match        https://www.youtube.com/watch?v=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
