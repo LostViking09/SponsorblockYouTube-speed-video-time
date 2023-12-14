@@ -1,5 +1,5 @@
 # SponsorblockYouTube-speed-video-time
-Adjusts the video time on Sponsorblock-enabled YouTube pages depending on the playback speed, as well as displaying the when the video will end
+Adjusts the video time on Sponsorblock-enabled YouTube pages depending on the playback speed, as well as displaying when the video will end
 
 ## Installation
 0. Install [SponsorBlock](https://sponsor.ajay.app/) if you haven't already ([SponsorBlock GitHub](https://github.com/ajayyy/SponsorBlock)])
