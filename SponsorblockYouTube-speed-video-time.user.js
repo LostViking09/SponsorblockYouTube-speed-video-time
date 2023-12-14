@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SponsorblockYouTube-speed-video-time
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/LostViking09/SponsorblockYouTube-speed-video-time
 // @version      1.0
 // @downloadURL  https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/raw/main/SponsorblockYouTube-speed-video-time.user.js
 // @updateURL    https://github.com/LostViking09/SponsorblockYouTube-speed-video-time/raw/main/SponsorblockYouTube-speed-video-time.user.js
